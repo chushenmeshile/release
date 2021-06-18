@@ -30,3 +30,6 @@ changelog:
     exclude:
       - '^docs:'
       - '^test:'
+env_files:
+  # use only one or release will fail!
+  github_token: E:\study\github_token\github_token
