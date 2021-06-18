@@ -32,4 +32,4 @@ changelog:
       - '^test:'
 env_files:
   # use only one or release will fail!
-  github_token: "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"
+  github_token: "my_test=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"
